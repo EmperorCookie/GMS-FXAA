@@ -25,6 +25,8 @@ shader_reset();
 
 Contributions are welcome. Please use GitFlow.
 
+Please note that this is a YYG Marketplace asset, so the license for this project is their EULA.
+
 ### Patch Notes
 
 **1.1.0**
