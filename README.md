@@ -6,6 +6,8 @@ For more details on FXAA, read [this Wikipedia article](http://en.wikipedia.org/
 
 ### Using the shader
 
+[Download the extension](https://github.com/EmperorCookie/GMS-FXAA/releases)
+
 Included in the package is a premade object that does post processing effects in the simplest possible way with GameMaker:Studio. Just drop it in your project and it works.
 
 ### Alternate use
